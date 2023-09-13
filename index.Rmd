@@ -1,0 +1,17 @@
+--- 
+title: "Cookbook for Dad"
+author: "Michael Strausz"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+description: "This is a simple cookbook that I made for my dad."
+---
+
+# Introduction {.unnumbered}
+
+These are a few recipes to help my dad do some cooking. The recipes are mostly vegetarian, and they are meant to be flexible and to teach some useful techniques. These are things that I cook a lot for my family. 
